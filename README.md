@@ -10,7 +10,7 @@ This repository documents my learning and project work as part of the InfozaTech
 
 | Task | Project | Status |
 |---|---|---|
-| 01 | Password Strength Checker | In Progress |
+| 01 | Password Strength Checker | Completed |
 | 02 | File Integrity Checker | In Progress |
 | 04 | Encryption & Decryption Toolkit | In Progress |
 | 05 | Phishing URL Detector | Planned |
